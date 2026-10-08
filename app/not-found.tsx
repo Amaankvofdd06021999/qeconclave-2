@@ -1,0 +1,2 @@
+import Link from 'next/link';
+export default function NotFound(){return <main id="main" className="wrap section"><span className="eyebrow">404 / An anomaly</span><h1 style={{fontSize:'clamp(48px,8vw,110px)',margin:'35px 0'}}>This signal<br/>got lost.</h1><p style={{color:'#9cabbe',marginBottom:30}}>Let’s get you back to the conclave.</p><Link className="button light" href="/">Return home</Link></main>}

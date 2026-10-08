@@ -1,0 +1,311 @@
+{
+  "alumni": [
+    {
+      "name": "Santanu Paul",
+      "edition": "2023",
+      "image": "/media/speakers/santanu-paul.jpg"
+    },
+    {
+      "name": "Ankit Gupta",
+      "edition": "2025",
+      "image": "/media/speakers/ankit-gupta.jpg"
+    },
+    {
+      "name": "Jyoti Rai",
+      "edition": "2025",
+      "image": "/media/speakers/jyoti-rai.jpg"
+    },
+    {
+      "name": "Kavita Bhanwadia",
+      "edition": "2025",
+      "image": "/media/kavita-bhanwadia.webp"
+    },
+    {
+      "name": "Manisha Saboo",
+      "edition": "2023",
+      "image": "/media/speakers/manisha-saboo.jpg"
+    },
+    {
+      "name": "Madhu Murty",
+      "edition": "2024",
+      "image": "/media/speakers/madhu-murty.jpg"
+    },
+    {
+      "name": "Sudhir Joshi",
+      "edition": "2024",
+      "image": "/media/speakers/sudhir-joshi.jpg"
+    },
+    {
+      "name": "Raj Neravati",
+      "edition": "2023",
+      "image": "/media/speakers/raj-neravati.jpg"
+    },
+    {
+      "name": "Divya Madaan",
+      "edition": "2024",
+      "image": "/media/speakers/divya-madaan.jpg"
+    },
+    {
+      "name": "Sreedhar Gade",
+      "edition": "2024",
+      "image": "/media/speakers/sreedhar-gade.jpg"
+    },
+    {
+      "name": "Avinash Tiwari",
+      "edition": "2025",
+      "image": "/media/speakers/avinash-tiwari.jpg"
+    },
+    {
+      "name": "Meghana Jagadeesh",
+      "edition": "2024",
+      "image": "/media/speakers/meghana-jagadeesh.jpg"
+    },
+    {
+      "name": "Mukund Wangikar",
+      "edition": "2024",
+      "image": "/media/mukund-wangikar.webp"
+    },
+    {
+      "name": "Anuradha Amudalapalli",
+      "edition": "2024",
+      "image": "/media/speakers/anuradha-amudalapalli.jpg"
+    },
+    {
+      "name": "Anita K. Manda",
+      "edition": "2024",
+      "image": "/media/anita-k-manda.webp"
+    },
+    {
+      "name": "Aditya Challa",
+      "edition": "2024",
+      "image": "/media/aditya-challa.webp"
+    },
+    {
+      "name": "Ravi Daparthi",
+      "edition": "2024",
+      "image": "/media/ravi-daparthi.webp"
+    },
+    {
+      "name": "Jeyachitra Alagar",
+      "edition": "2024",
+      "image": "/media/speakers/jeyachitra-alagar.jpg"
+    },
+    {
+      "name": "Kalilur Rahman",
+      "edition": "2023",
+      "image": "/media/speakers/kalilur-rahman.jpg"
+    },
+    {
+      "name": "Ravi Lakkaraju",
+      "edition": "2023",
+      "image": "/media/speakers/ravi-lakkaraju.jpg"
+    },
+    {
+      "name": "Parth Singh",
+      "edition": "2024",
+      "image": "/media/speakers/parth-singh.jpg"
+    },
+    {
+      "name": "Ansul Jindal",
+      "edition": "2024",
+      "image": "/media/ansul-jindal.webp"
+    },
+    {
+      "name": "Sanket Mali",
+      "edition": "2024",
+      "image": "/media/sanket-mali.webp"
+    },
+    {
+      "name": "Shiva Kumar RV",
+      "edition": "2024",
+      "image": "/media/shiva-kumar-rv.webp"
+    },
+    {
+      "name": "Jitendra Putcha",
+      "edition": "2024",
+      "image": "/media/jitendra-putcha.webp"
+    },
+    {
+      "name": "Narain Muralidharan",
+      "edition": "2024",
+      "image": "/media/speakers/narain-muralidharan.jpg"
+    },
+    {
+      "name": "LRV Ramana",
+      "edition": "2023",
+      "image": "/media/speakers/lrv-ramana.jpg"
+    },
+    {
+      "name": "Anurup Gaurav",
+      "edition": "2024",
+      "image": "/media/speakers/anurup-gaurav.jpg"
+    },
+    {
+      "name": "Ashwin Palaparthi",
+      "edition": "2023",
+      "image": "/media/speakers/ashwin-palaparthi.jpg"
+    },
+    {
+      "name": "Melanie Pais",
+      "edition": "2025",
+      "image": "/media/melanie-pais.webp"
+    }
+  ],
+  "sessions": [
+    {
+      "title": "Registration, Badge Pickup & Welcome Coffee",
+      "speaker": "",
+      "start": "15:00",
+      "end": "15:30",
+      "track": "break",
+      "label": "Break"
+    },
+    {
+      "title": "Opening Keynote: The State of Quality Engineering in 2026",
+      "speaker": "Priya Narayanan, Atlassian",
+      "start": "15:30",
+      "end": "16:00",
+      "track": "keynote",
+      "label": "Keynote"
+    },
+    {
+      "title": "Testing Agentic AI: When Your Software Writes Its Own Rules",
+      "speaker": "Dr. Aisha Patel, Google DeepMind",
+      "start": "16:00",
+      "end": "16:30",
+      "track": "ai-qe",
+      "label": "AI-QE"
+    },
+    {
+      "title": "LLM-Driven Test Generation: From Prompt to Pipeline",
+      "speaker": "Marcus Chen, Stripe",
+      "start": "16:30",
+      "end": "17:00",
+      "track": "test-arch",
+      "label": "Test Arch"
+    },
+    {
+      "title": "Tea & Sponsor Expo",
+      "speaker": "",
+      "start": "17:00",
+      "end": "17:20",
+      "track": "break",
+      "label": "Break"
+    },
+    {
+      "title": "Fireside Chat: Self-Healing Test Suites — Agentic AI for QA Workflows",
+      "speaker": "Nikolay Advolodkin, Sauce Labs · with Ramesh Iyer",
+      "start": "17:20",
+      "end": "17:50",
+      "track": "fireside",
+      "label": "Fireside"
+    },
+    {
+      "title": "Playwright at Microsoft Scale: 2M Tests, 0 Humans Watching",
+      "speaker": "Fatima Al-Rashidi, Microsoft",
+      "start": "17:50",
+      "end": "18:15",
+      "track": "test-arch",
+      "label": "Test Arch"
+    },
+    {
+      "title": "Chaos Engineering for QE Teams: Breaking Things on Purpose",
+      "speaker": "David Okonkwo, Testsigma",
+      "start": "18:15",
+      "end": "18:40",
+      "track": "perf",
+      "label": "Perf"
+    },
+    {
+      "title": "Panel Discussion: From QA Manager to QE Leader — What Actually Changes",
+      "speaker": "Moderated by Smita Mishra · with Lisa Crispin, Tariq King, Angie Jones, Anand Bagmar",
+      "start": "18:40",
+      "end": "19:20",
+      "track": "panel",
+      "label": "Panel"
+    },
+    {
+      "title": "Closing Keynote: Quality Engineering in 2030 — A Provocation",
+      "speaker": "Priya Narayanan & closing panel",
+      "start": "19:20",
+      "end": "19:40",
+      "track": "keynote",
+      "label": "Keynote"
+    },
+    {
+      "title": "Networking & Dinner",
+      "speaker": "",
+      "start": "19:40",
+      "end": "20:00",
+      "track": "break",
+      "label": "Networking"
+    }
+  ],
+  "talks": [
+    {
+      "id": "R0_DWk0mA8s",
+      "name": "Madhu Murty"
+    },
+    {
+      "id": "WqVyXsBjwic",
+      "name": "Ankit Gupta"
+    },
+    {
+      "id": "T7-2fbdPbak",
+      "name": "Jyoti Rai"
+    },
+    {
+      "id": "2Xrpd775Ssc",
+      "name": "Avinash Tiwari"
+    },
+    {
+      "id": "e3kQQ2PQTYM",
+      "name": "Ansul Jindal & Sanket Mali"
+    },
+    {
+      "id": "1gMIJT14J-k",
+      "name": "Aditya Challa"
+    },
+    {
+      "id": "Ijw0xkho8Z0",
+      "name": "Mukund Wangikar"
+    },
+    {
+      "id": "NvwcyVsXI6Y",
+      "name": "Panel Discussion"
+    },
+    {
+      "id": "9l4FXaaeoGU",
+      "name": "Panel Discussion"
+    },
+    {
+      "id": "KkQWF6x_p4g",
+      "name": "TestSigma"
+    },
+    {
+      "id": "qbfv4Rc81Wg",
+      "name": "QualiZeal"
+    },
+    {
+      "id": "JRhE2oon2Yk",
+      "name": "Freshworks"
+    },
+    {
+      "id": "t5k7gfgtxzE",
+      "name": "LambdaTest"
+    },
+    {
+      "id": "XKYwN9N295Y",
+      "name": "Tricentis"
+    },
+    {
+      "id": "pSNMFXklnKc",
+      "name": "GoCodeo"
+    },
+    {
+      "id": "9vu2U-hKpQM",
+      "name": "Divya Madaan"
+    }
+  ],
+  "testimonials": []
+}
