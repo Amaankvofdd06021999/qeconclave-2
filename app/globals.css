@@ -725,8 +725,9 @@ a.sponsor-logo:not(.sponsor-open):hover{border-color:#0d1117;transform:translate
  .hero-bottom{margin-top:44px;gap:30px}
  .hero-message{text-align:left;align-items:flex-start}
  .hero-message>p{font-size:19px;line-height:1.45}
- .hero-buttons{display:flex;flex-wrap:wrap;align-items:center;justify-content:flex-start;gap:6px 22px}
- .hero .button.ghost{padding-left:22px;padding-right:22px;border-color:transparent}
+ .hero-buttons{display:flex;flex-wrap:wrap;align-items:center;justify-content:flex-start;gap:8px 10px}
+ .hero .button.ghost{padding-left:12px;padding-right:12px;gap:8px;border-color:transparent}
+ .hero-buttons .button.light{padding-left:20px;padding-right:20px}
  .hero-foot{margin-top:36px;justify-content:flex-start}
  .hero-foot>span:last-child{display:none}
 }
