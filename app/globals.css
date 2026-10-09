@@ -819,3 +819,18 @@ a.sponsor-logo:not(.sponsor-open):hover{border-color:#0d1117;transform:translate
 /* Hero foot: two items now, spread to the content edges (field hint left, edition mark right) */
 .hero-foot{justify-content:space-between;align-items:center}
 .hero-interaction{position:static;transform:none}
+/* Phones: Register and Watch always share one row, scaling down with the screen instead of wrapping */
+@media(max-width:760px){
+ .hero-buttons{flex-wrap:nowrap;gap:8px}
+ .hero-buttons>.hero-seq{flex:0 1 auto;min-width:0}
+ .hero-buttons .button{min-height:46px;white-space:nowrap}
+ .hero-buttons .button.light{padding:0 clamp(14px,4.6vw,22px);font-size:clamp(12px,3.7vw,14px)}
+ .hero .hero-buttons .button.ghost{padding:0 clamp(8px,3vw,14px);gap:6px;font-size:clamp(11px,3.4vw,13px)}
+}
+@media(max-width:340px){
+ .hero-buttons{gap:6px}
+ .hero-buttons .button.light{padding:0 12px;font-size:11.5px}
+ .hero .hero-buttons .button.ghost{padding:0 6px;gap:5px;font-size:10.5px}
+ .hero .hero-buttons .button.ghost svg{width:12px;height:12px}
+}
+@media(max-width:340px){.header-actions{gap:6px}.header-actions .button{padding:8px 12px}.menu-trigger{padding:6px}}
