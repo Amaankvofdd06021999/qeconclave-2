@@ -715,7 +715,7 @@ a.sponsor-logo:not(.sponsor-open):hover{border-color:#0d1117;transform:translate
 /* Landing hero on phones: one left edge for everything, a title that fills the width, and the
    page's actions stacked under the message. */
 @media(max-width:760px){
- .hero{min-height:calc(100svh - 76px);padding-top:24px;padding-bottom:0}
+ .hero{min-height:calc(100svh - 76px);padding-top:24px;padding-bottom:56px}
  .hero-top{flex-direction:column;align-items:flex-start;gap:8px}
  .hero-top>.eyebrow{max-width:none}
  .hero-edition{display:inline-flex;align-items:center;gap:10px}
