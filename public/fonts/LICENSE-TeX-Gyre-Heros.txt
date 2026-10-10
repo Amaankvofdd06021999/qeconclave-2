@@ -1,0 +1,6 @@
+TeX Gyre Heros — subset web build (Latin) of texgyreheros-regular/bold.otf, version 2.004.
+Copyright 2007–2009 B. Jackowski and J. M. Nowacki (on behalf of TeX users groups).
+Distributed under the GUST Font License (GFL): https://www.gust.org.pl/projects/e-foundry/licenses
+Source: https://www.gust.org.pl/projects/e-foundry/tex-gyre/heros
+Modification: subset to Latin + common punctuation and converted to WOFF2 for the web; glyph
+outlines and names unchanged. The GFL is a free license based on the LaTeX Project Public License.

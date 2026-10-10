@@ -48,3 +48,6 @@ next-env.d.ts
 /tsconfig.tsbuildinfo
 # Original high-resolution source images (web copies live in public/media)
 /design-assets/
+# Next.js-generated notes for AI coding tools (recreated on each dev start)
+/AGENTS.md
+/CLAUDE.md
