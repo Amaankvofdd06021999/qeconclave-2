@@ -51,7 +51,7 @@ Unknown routes render a custom 404 page.
 - `components/qe/data.ts`, `lib/content.json`: event and archive content.
 - `components/qe/brand.tsx`: SVG burst mark (official logo colours) and the first-visit loading intro.
 - `components/qe/sponsors.tsx`: 2026 partner tiers and past-partner marquee.
-- `components/qe/fluid-field.tsx`: Three.js shader and Canvas fallback.
+- `components/qe/hero-bg/`: home hero background (columns style) and its React wrapper.
 - `components/qe/motion.tsx`: GSAP scroll animation.
 - `components/qe/challenge.tsx`: deterministic game and social scorecard.
 - `components/qe/forms.tsx`, `app/api/submissions/route.ts`: forms and validation.
@@ -85,7 +85,7 @@ The loading intro assembles the logo’s three arms, then wipes away once the pa
 
 The game uses a UTC date seed, giving visitors the same daily puzzle sequence. Share links retain the seed and mode. Results are personal scores, not a verified global leaderboard. No login or tracking is required to play.
 
-The hero uses a Three.js shader with a ping-pong pointer flow texture, with an animated Canvas fallback when WebGL2 is unavailable. Pixel ratio and frame rate are capped; rendering pauses when off-screen or the document is hidden. Reduced-motion preferences and the footer motion switch are supported. GSAP handles reveal, parallax and text-scroll effects. There are no low-poly scene objects.
+The home hero uses the "columns" background from `components/qe/hero-bg/qe-backgrounds.js`: quantized vertical light bars (28 on desktop, 12 on phones) lit by a drifting source that follows the pointer; clicking sends light up a bar. It pauses when off-screen or the tab is hidden, shows a still frame under reduced motion, and follows the footer motion switch. GSAP handles reveal, parallax and text-scroll effects.
 
 ## Deployment
 
